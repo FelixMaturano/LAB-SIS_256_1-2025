@@ -1,5 +1,5 @@
 #GRUPO 2
-| Nombre                          | Departamento | Carrera |
+| Nombre                          | Carrera     | grupo|
 |---------------------------------|-------------|------|
 | Apaza Villca Cristofer Denilson | IS          | 2    |
 | Escobar Torrez Rafael           | IS          | 2    |
